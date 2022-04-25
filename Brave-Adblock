@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: brave adblock (#3595913111)
+! Title: brave adblock (#2725347432)
 ! Version: 20220425
-! Checksum: GpFn4BSS/AaJ4qv/MT+S0Q
+! Checksum: snYo757E9KpLPeHGhTBdgQ
 ! Expires: 1 days
 ! Homepage: https://realityripple.com/Tools/AdBlock++/
 ! Last modified: Monday, April 25th, 2022
@@ -22335,6 +22335,7 @@ fplgameweek.com##mobile-sticky-ads
 youtube.com##.ytp-ce-element-show
 knowyourmeme.com###leaderboard
 yandex.*##.ImagesViewerApp-FooterContent
-yandex.*##div.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.incut_type_direct.incut
+yandex.*##div.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.inc
+ut_type_direct.incut
 mail.yandex.*##.mail-DirectLinePlaceholder
 /^https?:\/\/mail\.yandex\.[^\s]{125,}/$script,1p
